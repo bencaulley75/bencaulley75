@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bencaulley75
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python 3
-- 💞️ I’m looking to collaborate on any python project
+- 🌱 I’m currently learning HTML and CSS
+- 💞️ I’m looking to collaborate on any HTML and CSS project
 - 📫 How to reach me ...
 on snapchat @bencaulley75
 on instagram @bencaulley_iv
